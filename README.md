@@ -5,4 +5,4 @@ This Rshiny application takes in the data generated in an RNA-seq experiment and
 ### Functionality
 
 Sample Information
-![Alt text](images/metadata.png)
+![Alt text](Images/metadata.png)
