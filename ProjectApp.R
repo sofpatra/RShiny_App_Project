@@ -21,7 +21,7 @@ sample_columns <- c("Condition", "Sex", "Lifestage")
 
 columns = c('baseMean', 'log2FoldChange', 'lfcSE', 'stat', 'pvalue', 'padj')
 ui <- fluidPage(
-  titlePanel("BF591 Final Project - Sofiya Patra"),
+  titlePanel("RNA-seq Analysis Application - Sofiya Patra"),
   tabsetPanel(
     tabPanel("Samples",
              sidebarLayout(
