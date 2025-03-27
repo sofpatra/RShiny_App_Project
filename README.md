@@ -8,7 +8,7 @@ The app is hosted here: https://sofpatra.shinyapps.io/R_App_Project/
 ### Functionality
 
 Metadata Information Visualized
-![Alt text](Images/metadata.png)
+![Alt text](Images/metadata2.png)
 
 
 Counts Data Quality Control 
