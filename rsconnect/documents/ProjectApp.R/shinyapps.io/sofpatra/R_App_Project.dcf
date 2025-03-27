@@ -1,0 +1,13 @@
+name: R_App_Project
+title: R_App_Project
+username: sofpatra
+account: sofpatra
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 14359407
+bundleId: 10014386
+url: https://sofpatra.shinyapps.io/R_App_Project/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: DataAccession.R|Deseq.R|FileCreation.R|fluctuating_vs_control.csv|GSEA.R|TestFile.R|Data
